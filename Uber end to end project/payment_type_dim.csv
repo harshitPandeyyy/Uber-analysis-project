@@ -1,0 +1,5 @@
+,payment_type_id,payment_type,payment_type_name
+0,0,1,Credit card
+1,1,2,Cash
+2,2,3,No charge
+3,3,4,Dispute
